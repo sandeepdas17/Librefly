@@ -1,0 +1,2 @@
+# Set login.html as the default page for the librefly folder
+DirectoryIndex login.html
